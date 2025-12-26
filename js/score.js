@@ -5,7 +5,7 @@ const scale = 3;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
- * @KrmaL {} rank Position on the list
+ * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
