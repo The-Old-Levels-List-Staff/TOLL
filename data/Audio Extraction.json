@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "409735",
     "records": [
+        {
+            "user": "Chomiczekk",
+            "link": "https://github.com/The-Old-Levels-List-Staff/TOLL/edit/main/data/Audio%20Extraction.json#L11C5",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
