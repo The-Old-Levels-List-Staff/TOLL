@@ -3,7 +3,7 @@
     "name": "Artificial Ascent",
     "author": "Viprin",
     "creators": ["Codex", "Manix648", "Sanic", "Hinds", "Zobros", "Michigun[*]", "Anthrax", "ZenthicAlpha", "Viprin", "Loogiah", "Wamiq8", "Nasgubb", "AbstractDark", "Etzer", "Speed", "Serponge", "G4lvatron", "Terron"],
-    "Verifier": "Combined",
+    "verifier": "Combined",
     "verification": "https://youtu.be/laok-nI3-t8?si=9k-gdFT9hyGZO63Q",
     "percentToQualify": 100,
     "password": "352476",
