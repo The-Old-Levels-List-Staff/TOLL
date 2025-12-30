@@ -109,6 +109,9 @@ export default {
                         Achieved the record without any cuts on completion video
                     </p>
                     <p>
+                        You must show attempts stats e.t.c after completion
+                    </p>
+                    <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
