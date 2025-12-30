@@ -103,6 +103,9 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
+                        Achieved the record without using "Click Sounds" mods
+                    </p>
+                    <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
